@@ -1,0 +1,15 @@
+diffusers>=0.25.0
+transformers>=4.36.0
+torch>=2.0.0
+Pillow>=9.0.0
+# Optional for web UI
+streamlit>=1.20.0
+gradio>=3.50.0
+# For testing
+pytest>=7.0.0 
+torch
+transformers
+diffusers
+accelerate
+Pillow
+streamlit
